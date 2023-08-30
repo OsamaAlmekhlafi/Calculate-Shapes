@@ -1,2 +1,2 @@
 # Calculate-Shapes
-Calculate Shapes Using OOP in Pytho
+Calculate Shapes Using OOP in Python language 
